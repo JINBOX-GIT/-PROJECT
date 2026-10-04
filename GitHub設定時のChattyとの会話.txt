@@ -1,0 +1,307 @@
+# Obsidian・OneDrive・GitHub連携の基本方針
+
+## 1. 基本方針
+
+竜宮プロジェクトのWindows PC側におけるファイル管理の母艦は、従来どおりOneDriveとする。
+
+GitHubはOneDriveを置き換えるために導入するものではない。
+
+GitHubを利用する主目的は、iPhone版ObsidianとWindows版Obsidianの間で、OneDriveを利用したVault共有・同期ができない問題を解決することである。
+
+そのため、GitHubは以下の位置付けとする。
+
+**GitHub ＝ Windows版ObsidianとiPhone版Obsidianを接続するための同期経路（橋）**
+
+---
+
+## 2. GitHub導入の背景
+
+当初、竜宮プロジェクト関係のファイルはWindows PC上でOneDriveを利用して一元管理する方針としていた。
+
+OneDriveでは以下のような竜宮プロジェクト関係ファイルを管理する。
+
+- Word文書
+- Excel
+- 画像
+- 動画
+- Obsidian Vault
+- 設定資料
+- 制作資料
+- その他の竜宮プロジェクト関係ファイル
+
+Windows PCを中心に利用する限り、このOneDrive中心の管理方式を変更する必要はない。
+
+しかし、iPhone版Obsidianでは、Windows PCで利用しているOneDrive上のObsidian Vaultをそのまま共有・同期することが難しい。
+
+この問題を解決するため、iPhoneとWindowsのObsidian間にGitHubを介在させる方式を採用する。
+
+---
+
+## 3. 各サービスの役割
+
+### OneDrive
+
+竜宮プロジェクト全体のファイル管理における母艦とする。
+
+Windows PC側では、従来どおりOneDriveを中心として竜宮プロジェクトのファイルを管理する。
+
+GitHubを導入したことを理由として、竜宮プロジェクトのファイルをOneDriveから移動させることは基本方針としない。
+
+### GitHub
+
+Windows版ObsidianとiPhone版Obsidianを接続するための同期経路として利用する。
+
+また、Gitの機能によってObsidianファイルの変更履歴を管理できるという副次的なメリットも利用する。
+
+ただし、GitHubを竜宮プロジェクト全体の母艦へ変更することが目的ではない。
+
+### Working Copy
+
+iPhone側でGitHubリポジトリを操作するために使用する。
+
+主な役割は以下とする。
+
+- GitHubからiPhoneへの取得
+- iPhoneで変更したObsidianファイルのCommit
+- GitHubへのPush
+- Windows側とiPhone側で変更が競合した場合のMerge
+- 競合発生時のResolve
+
+### GitHub Desktop
+
+Windows PC側でGitHubリポジトリを操作するために使用する。
+
+主な役割は以下とする。
+
+- GitHubからWindowsへのPull
+- Windowsで変更したObsidianファイルのCommit
+- GitHubへのPush
+- GitHubとの同期状態の確認
+
+---
+
+## 4. 基本構成
+
+Windows PCではOneDriveを従来どおり使用する。
+
+その中に存在するObsidian Vaultについて、Gitでも管理する。
+
+GitHubを経由してiPhone側のWorking Copyと同期する。
+
+概念的な構成は以下となる。
+
+    Windows PC
+        │
+        ▼
+    OneDrive
+        │
+        ├─ Word
+        ├─ Excel
+        ├─ 画像
+        ├─ 動画
+        ├─ その他の竜宮資料
+        │
+        └─ Obsidian Vault
+                │
+                │ Git
+                ▼
+             GitHub
+                │
+                │ Git
+                ▼
+          Working Copy
+                │
+                ▼
+          iPhone Obsidian
+
+---
+
+## 5. Windows側の位置付け
+
+Windows PC側では、OneDriveを竜宮プロジェクトの母艦として維持する。
+
+したがって、
+
+**「GitHubを導入したのでObsidian VaultをOneDrive外へ移動する」**
+
+ことを基本方針とはしない。
+
+Windows側では、
+
+**OneDrive上のObsidian Vaultを維持しながら、そのVaultをGitでも管理する**
+
+構成を基本とする。
+
+---
+
+## 6. iPhone側の位置付け
+
+iPhoneではOneDriveをObsidian Vaultの直接同期経路として使用しない。
+
+代わりに、
+
+    iPhone Obsidian
+          ↕
+      Working Copy
+          ↕
+        GitHub
+
+という経路を使用する。
+
+iPhoneで作成・変更したObsidianファイルは、Working CopyからCommit・PushすることでGitHubへ反映する。
+
+Windows側ではGitHub Desktopを利用して、その変更を取得する。
+
+---
+
+## 7. WindowsからiPhoneへの同期
+
+Windows版Obsidianでファイルを作成・変更する。
+
+    Windows Obsidian
+          ↓
+    GitHub Desktop
+          ↓
+        Commit
+          ↓
+         Push
+          ↓
+        GitHub
+          ↓
+    Working Copy
+          ↓
+    iPhone Obsidian
+
+これにより、Windowsで作成したObsidianファイルをiPhoneでも利用できる。
+
+---
+
+## 8. iPhoneからWindowsへの同期
+
+iPhone版Obsidianでファイルを作成・変更する。
+
+    iPhone Obsidian
+          ↓
+    Working Copy
+          ↓
+        Commit
+          ↓
+         Push
+          ↓
+        GitHub
+          ↓
+    GitHub Desktop
+          ↓
+         Pull
+          ↓
+    Windows Obsidian
+
+これにより、iPhoneで作成したObsidianファイルをWindows PCでも利用できる。
+
+---
+
+## 9. OneDriveとGitHubの関係
+
+OneDriveとGitHubは競合するサービスとして考えない。
+
+それぞれの役割を以下のように分離する。
+
+| サービス | 主な役割 |
+|---|---|
+| OneDrive | 竜宮プロジェクト全体のファイル管理・クラウド保管 |
+| GitHub | Windows版ObsidianとiPhone版Obsidianの同期経路 |
+| Git | Obsidianファイルの変更履歴管理 |
+| GitHub Desktop | Windows側のGit操作 |
+| Working Copy | iPhone側のGit操作 |
+| Obsidian | Markdownを中心とした情報・知識管理 |
+
+---
+
+## 10. GitHub導入によって変更しないもの
+
+GitHubを導入しても、以下の基本方針は変更しない。
+
+- Windows PCではOneDriveを引き続き利用する。
+- 竜宮プロジェクト全体の母艦はOneDriveとする。
+- Word、Excel、画像、動画等をGitHubへ全面移行することを目的としない。
+- GitHubをOneDriveの代替クラウドストレージとは位置付けない。
+- Windows側の既存のファイル管理体系をGitHub導入だけを理由として全面変更しない。
+
+---
+
+## 11. GitHub導入によって追加されるもの
+
+GitHub導入によって、新たに以下の経路を追加する。
+
+**Windows版Obsidian ⇔ GitHub ⇔ iPhone版Obsidian**
+
+これはOneDriveを置き換えるものではなく、
+
+**OneDriveだけでは実現できなかったiPhone版Obsidianとの同期を補完するための経路**
+
+である。
+
+---
+
+## 12. 運用上の注意
+
+OneDriveとGitは同じObsidianファイル群を扱うため、二重の同期・変更管理になる。
+
+そのため、以下には注意する。
+
+- Windows側とiPhone側で同じMarkdownファイルを同時編集しない。
+- iPhoneで編集を開始する前に、可能な限りGitHub側の最新状態を取得する。
+- Windowsで編集を開始する前にも、GitHub Desktopで最新状態を確認する。
+- GitHubへのPushが拒否された場合は、無理に上書きせず、先にGitHub側の変更を取得する。
+- Merge Conflictが発生した場合は、内容を確認してResolveする。
+- OneDriveによる同期とGitHubによる同期を混同しない。
+- GitHubの操作対象は、Git管理対象として設定したObsidian Vault内のファイルとする。
+
+---
+
+## 13. 今回確認できたGitHub同期
+
+iPhone側では以下の構成を構築済みである。
+
+    iPhone Obsidian
+          ↕
+    Working Copy
+          ↕
+    GitHub
+    JINBOX-GIT/-PROJECT
+
+iPhone側からのCommit・Pushに成功している。
+
+また、Windows側とGitHub側で同一ファイルに異なる変更が存在する場合を想定したMerge Conflictについても、Working Copyで以下の操作を実施し、解決できることを確認した。
+
+1. GitHub側とiPhone側で異なる変更が発生
+2. Push時にFast-forwardできない状態を検出
+3. Merge
+4. Conflict発生
+5. 必要な双方の変更内容を採用
+6. Resolve
+7. Merge Commit
+8. Push
+9. GitHubのorigin/mainへの反映成功
+
+これにより、iPhone側からGitHubを利用する基本的な同期経路が動作することを確認した。
+
+---
+
+## 14. 今後の基本方針
+
+今後、Obsidian・GitHub・Working Copy・GitHub Desktop・OneDriveに関する構成や操作を検討する際には、以下を最上位の前提とする。
+
+> **WindowsではOneDriveを従来どおり竜宮プロジェクト全体の母艦として使用する。**
+>
+> **GitHubはOneDriveを置き換えるためのものではない。**
+>
+> **GitHubは、iPhone版ObsidianでOneDrive経由のVault共有・同期ができない問題を解決するため、Windows版ObsidianとiPhone版Obsidianを接続する同期経路として利用する。**
+
+したがって、特別な技術的理由がない限り、
+
+**「GitHubを利用するためにOneDriveの利用をやめる」**
+
+という方向には変更しない。
+
+OneDriveを維持した上で、GitHubをiPhoneとのObsidian同期経路として追加することを、本構成の基本設計とする。
