@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026年9月目iPhone/テスト.md",
+                "file": "2026年10月iPhone/10月1日メモ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "テスト"
+              "title": "10月1日メモ"
             }
           },
           {
@@ -62,9 +62,22 @@
               "icon": "lucide-file",
               "title": "10月1日メモ"
             }
+          },
+          {
+            "id": "778c30e6f71b4773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026年10月iPhone/キックオフ20261002.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "キックオフ20261002"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,6 +173,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2026年10月iPhone/キックオフ20261002.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -213,16 +227,37 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "c5896e0c5e7da784",
+  "active": "a20a9da8085ca5fd",
   "lastOpenFiles": [
-    "2026年9月目iPhone/9月30日メモ.md",
-    "10月1日メモ.md",
-    "IMG_4547.jpeg",
-    "写真/IMG_4547.jpeg",
-    "写真/IMG_4544.png",
-    "写真",
+    "2026年10月iPhone/キックオフ20261002.md",
+    "Windows同期テスト.md",
+    "インスタパズる戦略企画用マスターログ（202608〜）.md",
+    "竜宮用メモ/メモ20260927〜.md",
+    "竜宮用メモ/2026-08-31.md",
+    "竜宮用メモ/メモ作業用202608〜.md",
+    "竜宮用メモ",
+    "龍宮プロトコルの作業メモ.md",
+    "0f3aa0cf-308c-4893-80a6-fe97b1eae31d.png",
+    "龍宮プロトコルの作業メモ0912分離.md",
+    "GitHub設定時のChattyとの会話.txt",
+    "4fb2bf06-2628-49eb-ab8c-f789a52ec7f7.png",
+    "ビジュアル仕様書/Pasted image 20260912183022.png",
+    "ビジュアル仕様書/Pasted image 20260912183634.png",
+    "ビジュアル仕様書/Pasted image 20260912180316.png",
+    "ビジュアル仕様書/Pasted image 20260912181551.png",
+    "ビジュアル仕様書/Pasted image 20260912184426.png",
+    "ビジュアル仕様書",
+    "GitHubtest.md",
+    "Chatty反省文・再発防止規約 追補案 性的コンテンツ.md",
+    "インスタバズる戦略用コンテンツ一覧_ver0.5.md",
+    "2026年10月iPhone/10月1日メモ.md",
     "2026年9月目iPhone/テスト.md",
-    "IMG_4544.png",
+    "写真/IMG_4596.jpeg",
+    "2026年10月iPhone",
+    "写真/IMG_4604.jpeg",
+    "写真/IMG_4603.jpeg",
+    "2026年9月目iPhone/9月30日メモ.md",
+    "写真",
     "2026年10月メモ",
     "2026年9月目iPhone/テスト2️⃣.md",
     "2026年9月目iPhone"
