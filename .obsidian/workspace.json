@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "db05d7315737699b",
+    "type": "split",
+    "children": [
+      {
+        "id": "da96d3c697895d32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a532d8d08c3e19c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5ca65ccb0f6c00e",
+    "type": "split",
+    "children": [
+      {
+        "id": "921e82a8cff20c32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c7a4c2d1372fdb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "cf1030ea082dca03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "f7bcf996f52b9b7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04f8379e197e2b7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b49346234e1c901",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b99c74ab7ca9cfa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "9af901701415221d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "271f9fe872d29588",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "5cd6e5593b50df9c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "e81d018634b4316f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "a532d8d08c3e19c8",
+  "lastOpenFiles": [
+    "ビジュアル仕様書/OTOHIME_MIXXIA_8DIRECTION_Ver0.1/音姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_R90.png",
+    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_R45.png",
+    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_R15.png",
+    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_L90.png",
+    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_L45.png",
+    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_L15.png",
+    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_180_Back.png",
+    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_00_Front.png",
+    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/QA_Report.md",
+    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images",
+    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1",
+    "HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_R90.png",
+    "HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_R45.png",
+    "HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+    "HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images",
+    "HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/QA_Report.md",
+    "HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1",
+    "インスタリール作成用/HIKARIHIME_INTERMEDIATE_FRAMES_10SEC_Ver0.1/QA_Report.md",
+    "インスタリール作成用/HIKARIHIME_INTERMEDIATE_FRAMES_10SEC_Ver0.1/光姫_10秒間中間静止画制作仕様書_Ver0.1.md",
+    "インスタリール作成用/HIKARIHIME_INTERMEDIATE_FRAMES_10SEC_Ver0.1/images",
+    "インスタリール作成用/HIKARIHIME_INTERMEDIATE_FRAMES_10SEC_Ver0.1",
+    "インスタリール作成用",
+    "名称未設定フォルダ",
+    "竜宮用メモ/B-1 GRAND PRIX（BEAST-1）企画備忘メモ.md.fetch",
+    "竜宮用メモ/B-1 GRAND PRIX（BEAST-1）企画備忘メモ.md",
+    "ビジュアル仕様書/OTOHIME_MIXXIA_8DIRECTION_Ver0.1/images",
+    "ビジュアル仕様書/OTOHIME_MIXXIA_8DIRECTION_Ver0.1/QA_Report.md",
+    "G検定勉強用/模試の回答20261015.md",
+    "インスタ分析用/竜宮プロトコル Instagram運用分析｜2026年10月15日.md"
+  ]
+}
