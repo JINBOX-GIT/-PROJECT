@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+                "file": "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/光姫_光のドレスアップ_10秒間中間静止画制作仕様書_Ver0.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1"
+              "title": "光姫_光のドレスアップ_10秒間中間静止画制作仕様書_Ver0.1"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+                "file": "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/光姫_光のドレスアップ_10秒間中間静止画制作仕様書_Ver0.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+                "file": "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/光姫_光のドレスアップ_10秒間中間静止画制作仕様書_Ver0.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+                "file": "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/光姫_光のドレスアップ_10秒間中間静止画制作仕様書_Ver0.1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,21 +190,35 @@
   },
   "active": "a532d8d08c3e19c8",
   "lastOpenFiles": [
-    "ビジュアル仕様書/OTOHIME_MIXXIA_8DIRECTION_Ver0.1/音姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
-    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_R90.png",
-    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_R45.png",
-    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_R15.png",
-    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_L90.png",
-    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_L45.png",
-    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_L15.png",
-    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_180_Back.png",
-    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_00_Front.png",
+    "インスタ分析用/竜宮Instagram_2026年10月リール分析_Obsidian.md",
+    "インスタバズる戦略用コンテンツ一覧_ver0.5.md",
+    "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/images/HIK_10_End.png",
+    "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/images/HIK_09.png",
+    "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/images/HIK_08.png",
+    "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/images/HIK_07.png",
+    "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/images/HIK_06.png",
+    "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/images/HIK_05.png",
+    "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/images/HIK_04.png",
+    "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/images/HIK_02.png",
+    "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/images/HIK_03.png",
+    "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/images/HIK_01.png",
+    "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/光姫_光のドレスアップ_10秒間中間静止画制作仕様書_Ver0.1.md",
+    "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/images",
+    "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/QA_Report.md",
+    "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1",
+    "インスタバズる戦略用コンテンツ一覧_ver0.5.md.fetch",
+    "竜宮用メモ/B-1 GRAND PRIX（BEAST-1）企画備忘メモ.md",
+    "インスタパズる戦略企画用マスターログ（202608〜）.md",
+    "10月8日メモ.md",
+    "竜宮用メモ/メモ作業用202608〜.md",
+    "竜宮用メモ/2026-08-31.md",
+    "竜宮用メモ/メモ20260927〜.md",
+    "龍宮プロトコルの作業メモ.md",
     "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+    "ビジュアル仕様書/OTOHIME_MIXXIA_8DIRECTION_Ver0.1/音姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
     "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/QA_Report.md",
     "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images",
     "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1",
-    "HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_R90.png",
-    "HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images/HIK_R45.png",
     "HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
     "HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/images",
     "HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/QA_Report.md",
@@ -214,10 +228,6 @@
     "インスタリール作成用/HIKARIHIME_INTERMEDIATE_FRAMES_10SEC_Ver0.1/images",
     "インスタリール作成用/HIKARIHIME_INTERMEDIATE_FRAMES_10SEC_Ver0.1",
     "インスタリール作成用",
-    "名称未設定フォルダ",
-    "竜宮用メモ/B-1 GRAND PRIX（BEAST-1）企画備忘メモ.md.fetch",
-    "竜宮用メモ/B-1 GRAND PRIX（BEAST-1）企画備忘メモ.md",
-    "ビジュアル仕様書/OTOHIME_MIXXIA_8DIRECTION_Ver0.1/images",
     "ビジュアル仕様書/OTOHIME_MIXXIA_8DIRECTION_Ver0.1/QA_Report.md",
     "G検定勉強用/模試の回答20261015.md",
     "インスタ分析用/竜宮プロトコル Instagram運用分析｜2026年10月15日.md"
