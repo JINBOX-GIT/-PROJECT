@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "db05d7315737699b",
+    "type": "split",
+    "children": [
+      {
+        "id": "da96d3c697895d32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba8825b9202c023d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "インスタバズる戦略用コンテンツ一覧_ver0.5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "インスタバズる戦略用コンテンツ一覧_ver0.5"
+            }
+          },
+          {
+            "id": "9240cce7a92ecb79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "竜宮用メモ/B-1 GRAND PRIX（BEAST-1）企画備忘メモ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B-1 GRAND PRIX（BEAST-1）企画備忘メモ"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5ca65ccb0f6c00e",
+    "type": "split",
+    "children": [
+      {
+        "id": "921e82a8cff20c32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c7a4c2d1372fdb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "cf1030ea082dca03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "f7bcf996f52b9b7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04f8379e197e2b7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b49346234e1c901",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b99c74ab7ca9cfa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "竜宮用メモ/B-1 GRAND PRIX（BEAST-1）企画備忘メモ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "9af901701415221d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "竜宮用メモ/B-1 GRAND PRIX（BEAST-1）企画備忘メモ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "271f9fe872d29588",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "5cd6e5593b50df9c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "e81d018634b4316f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "竜宮用メモ/B-1 GRAND PRIX（BEAST-1）企画備忘メモ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "9240cce7a92ecb79",
+  "lastOpenFiles": [
+    "01_動画制作標準仕様書/光姫・生成イルミネーション動画制作標準仕様書（ChatGPT Work編）Ver0.4.md",
+    "インスタ分析用/竜宮Instagram_週次リール分析_2026-11-02.md",
+    "インスタバズる戦略用コンテンツ一覧_ver0.5.md",
+    "Windows同期テスト.md.fetch",
+    "インスタパズる戦略企画用マスターログ（202608〜）.md",
+    "Windows同期テスト.md",
+    "竜宮用メモ/B-1 GRAND PRIX（BEAST-1）企画備忘メモ.md",
+    "竜宮用メモ/B-1 GRAND PRIX（BEAST-1）企画備忘メモ.md.fetch",
+    "インスタバズる戦略用コンテンツ一覧_ver0.5.md.fetch",
+    "10月8日メモ.md",
+    "竜宮用メモ/メモ作業用202608〜.md",
+    "竜宮用メモ/メモ20260927〜.md",
+    "竜宮用メモ/2026-08-31.md",
+    "龍宮プロトコルの作業メモ.md",
+    "龍宮プロトコルの作業メモ0912分離.md",
+    "インスタリール作成用/Work依頼プロンプト/光姫_光のイルカ融合変身_CUT02_10秒間_中間静止画制作.md",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/天姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+    "G検定勉強用/模試の回答20261015.md",
+    "01_動画制作標準仕様書/竜宮プロトコルSNS動画制作仕様書（Work編）.md",
+    "01_動画制作標準仕様書/竜宮SNS動画制作_全工程効率化分析_Ver0.2_Obsidian.md.fetch",
+    "01_動画制作標準仕様書/竜宮SNS動画制作_全工程効率化分析_Ver0.2_Obsidian.md",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/images/TEN_L45.png",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/history/NG_R45_attempt2.png",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/history/NG_R45_attempt1.png",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/history/NG_L45_attempt1.png",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/history/NG_180_Back_attempt1.png",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/images/TEN_R90.png",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/images/TEN_R45.png",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/images/TEN_R15.png",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/images/TEN_L90.png",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/images/TEN_L15.png",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/images",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/history",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/QA_Report.md",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画",
+    "インスタリール作成用/Work依頼プロンプト/光姫_光のイルカ融合変身_10秒間_中間静止画制作.md",
+    "ビジュアル仕様書/OTOHIME_MIXXIA_8DIRECTION_Ver0.1/音姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+    "01_動画制作標準仕様書/竜宮プロトコルSNS動画制作仕様書（Work編）.md.fetch",
+    "01_動画制作標準仕様書",
+    "インスタリール作成用/Work依頼プロンプト/光姫_光のイルカ融合変身_10秒間_中間静止画制作.md.fetch",
+    "インスタ分析用/竜宮Instagram_2026年10月リール分析_Obsidian.md",
+    "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/光姫_光のドレスアップ_10秒間中間静止画制作仕様書_Ver0.1.md",
+    "インスタリール作成用/HIKARIHIME_LIGHT_DRESSUP_10SEC_Ver0.1/QA_Report.md",
+    "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/QA_Report.md",
+    "HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md"
+  ]
+}
