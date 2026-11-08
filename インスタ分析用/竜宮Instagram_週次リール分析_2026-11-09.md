@@ -19,12 +19,12 @@ tags: [竜宮, Instagram, Reels, Metricool, 週次分析]
 | 指標 | 結果 |
 |---|---:|
 | 対象投稿 | 25本（既存21・新規4） |
-| 既存投稿の前回閲覧数 | 252 |
+| 既存投稿の前回閲覧数 | 3925 |
 | 既存投稿の今回閲覧数 | 4678 |
-| **既存投稿の閲覧数増分** | **+4426** |
-| 既存投稿のリーチ合計増分 | +1890（投稿間重複あり） |
-| 既存投稿の保存増分 | 0 |
-| 既存投稿のシェア増分 | 0 |
+| **既存投稿の閲覧数増分** | **+753** |
+| 既存投稿のリーチ合計増分 | +413（投稿間重複あり） |
+| 既存投稿の保存増分 | +2 |
+| 既存投稿のシェア増分 | +1 |
 | 新規投稿の閲覧累計 | 1263 |
 | 全投稿の閲覧累計 | **5941** |
 | 全投稿のリーチ合計 | 3621（重複あり） |
@@ -41,27 +41,27 @@ tags: [竜宮, Instagram, Reels, Metricool, 週次分析]
 | 11/06 | [音姫 Music Video 第5弾 公開！](https://www.instagram.com/reel/DfZITolxZb6/) | 278 | — | 188 | — | 28.4% | — | 0（—） | 1（—） |
 | 11/04 | [極上の竜宮 ～ラッコの温石マッサージ②～](https://www.instagram.com/reel/DfUGMjwx5lY/) | 287 | — | 186 | — | 57.0% | — | 0（—） | 0（—） |
 | 11/03 | [💕 ようこそ、竜宮の癒やしの世界へ 🫧](https://www.instagram.com/reel/DfQrsBOx5lB/) | 515 | — | 384 | — | 32.2% | — | 0（—） | 1（—） |
-| 11/01 | [光姫のクリオネイルミネーション ② 🪼](https://www.instagram.com/reel/DfL3B6JxX3Q/) | 463 | +457 | 346 | — | 21.2% | — | 3（—） | 1（—） |
-| 10/31 | [光姫のクリオネイルミネーション ①](https://www.instagram.com/reel/DfJLj-cxJmH/) | 487 | +470 | 347 | — | 22.7% | — | 1（—） | 1（—） |
-| 10/29 | [3秒で、成りたい姿になる。②](https://www.instagram.com/reel/DfEpTOLRb95/) | 401 | +382 | 275 | +237 | 23.1% | — | 1（—） | 1（—） |
-| 10/26 | [💋 海姫の欲望を暴くシリーズ③－4 💋](https://www.instagram.com/reel/De82ITVxcpH/) | 431 | +418 | 261 | +247 | 40.7% | — | 0（—） | 0（—） |
-| 10/25 | [💋 海姫の欲望を暴くシリーズ③－3 💋](https://www.instagram.com/reel/De53AuHxeLr/) | 191 | +176 | 85 | +75 | 27.3% | — | 0（—） | 0（—） |
-| 10/24 | [💋 海姫の欲望を暴くシリーズ💋](https://www.instagram.com/reel/De3Id6QRT1_/) | 215 | +202 | 95 | +86 | 36.1% | — | 1（—） | 0（—） |
-| 10/23 | [💋 海姫の欲望を暴くシリーズ③](https://www.instagram.com/reel/De1UuL3xsEi/) | 151 | +141 | 81 | +73 | 21.0% | — | 0（—） | 0（—） |
-| 10/22 | [🐿️ 花姫と野獣リスくんの日常② 🐿️](https://www.instagram.com/reel/DeyniNYR0od/) | 186 | +172 | 93 | +87 | 36.0% | — | 1（—） | 0（—） |
-| 10/21 | [🐿️ 野獣リスくんのほのぼの生活 第3弾！](https://www.instagram.com/reel/DewOUytR40I/) | 141 | +129 | 78 | +71 | 18.5% | — | 0（—） | 0（—） |
-| 10/20 | [🩷 竜宮プロトコル｜天姫（てんひめ）](https://www.instagram.com/reel/Detgrq6RGzs/) | 131 | +118 | 75 | +67 | 21.6% | — | 0（—） | 0（—） |
-| 10/20 | [🌹❤️ 竜宮プロトコル｜海姫（うみひめ） 💋](https://www.instagram.com/reel/DetbqpJRH9M/) | 120 | +114 | 68 | +62 | 23.2% | — | 0（—） | 0（—） |
-| 10/19 | [🌟💙 竜宮プロトコル｜光姫（ひかりひめ）](https://www.instagram.com/reel/DerC8JVxpAc/) | 132 | +123 | 77 | +71 | 22.5% | — | 0（—） | 0（—） |
-| 10/19 | [🐚 竜宮プロトコル｜音姫（おとひめ） 🎹](https://www.instagram.com/reel/Deqx8XeRfpJ/) | 144 | +133 | 84 | +76 | 22.1% | — | 1（—） | 0（—） |
-| 10/17 | [ようこそ、竜宮プロトコルへ！](https://www.instagram.com/reel/Delzhq5RAKT/) | 112 | +96 | 58 | +54 | 22.6% | — | 0（—） | 0（—） |
-| 10/15 | [🐙💗 天姫の極上リラクゼーション④ 💗🐙](https://www.instagram.com/reel/Degl_nwRIh4/) | 231 | +220 | 105 | +101 | 41.4% | — | 1（—） | 0（—） |
-| 10/12 | [🐙 天姫シリーズ③『タコ博士の整体体験①』 💕](https://www.instagram.com/reel/DeYyKb_xg8y/) | 174 | +161 | 86 | +83 | 36.8% | — | 0（—） | 0（—） |
-| 10/11 | [🌙 音姫 MV 第3弾『この夜が終わるまで』](https://www.instagram.com/reel/DeVobe3x2Ua/) | 216 | +200 | 123 | +120 | 17.3% | — | 0（—） | 0（—） |
-| 10/09 | [🎼 音姫 MV 第4弾『愛のうた』](https://www.instagram.com/reel/DeRC1KLREcG/) | 214 | +200 | 120 | +115 | 23.1% | — | 0（—） | 0（—） |
-| 10/05 | [🐿️🔥 「野獣リスくんの野望」②](https://www.instagram.com/reel/DeG3hcrxKZJ/) | 203 | +193 | 103 | +99 | 24.5% | — | 1（—） | 0（—） |
-| 10/03 | [🐿️🔥 新シリーズ「野獣リスくんの野望」①](https://www.instagram.com/reel/DeAxpzlRfW-/) | 175 | +169 | 87 | +85 | 25.7% | — | 0（—） | 0（—） |
-| 10/01 | [海姫「欲望を暴きます」シリーズ② 🪸](https://www.instagram.com/reel/Dd8k8bDRPqf/) | 160 | +152 | 82 | +81 | 26.6% | — | 0（—） | 0（—） |
+| 11/01 | [光姫のクリオネイルミネーション ② 🪼](https://www.instagram.com/reel/DfL3B6JxX3Q/) | 463 | +283 | 346 | +205 | 21.2% | -5.9pt | 3（+2） | 1（+1） |
+| 10/31 | [光姫のクリオネイルミネーション ①](https://www.instagram.com/reel/DfJLj-cxJmH/) | 487 | +125 | 347 | +70 | 22.7% | +0.7pt | 1（+0） | 1（+0） |
+| 10/29 | [3秒で、成りたい姿になる。②](https://www.instagram.com/reel/DfEpTOLRb95/) | 401 | +59 | 275 | +25 | 23.1% | -1.6pt | 1（+0） | 1（+0） |
+| 10/26 | [💋 海姫の欲望を暴くシリーズ③－4 💋](https://www.instagram.com/reel/De82ITVxcpH/) | 431 | +55 | 261 | +20 | 40.7% | -2.6pt | 0（+0） | 0（+0） |
+| 10/25 | [💋 海姫の欲望を暴くシリーズ③－3 💋](https://www.instagram.com/reel/De53AuHxeLr/) | 191 | +38 | 85 | +14 | 27.3% | +1.0pt | 0（+0） | 0（+0） |
+| 10/24 | [💋 海姫の欲望を暴くシリーズ💋](https://www.instagram.com/reel/De3Id6QRT1_/) | 215 | +34 | 95 | +13 | 36.1% | -2.4pt | 1（+0） | 0（+0） |
+| 10/23 | [💋 海姫の欲望を暴くシリーズ③](https://www.instagram.com/reel/De1UuL3xsEi/) | 151 | +28 | 81 | +11 | 21.0% | -0.4pt | 0（+0） | 0（+0） |
+| 10/22 | [🐿️ 花姫と野獣リスくんの日常② 🐿️](https://www.instagram.com/reel/DeyniNYR0od/) | 186 | +22 | 93 | +11 | 36.0% | -2.8pt | 1（+0） | 0（+0） |
+| 10/21 | [🐿️ 野獣リスくんのほのぼの生活 第3弾！](https://www.instagram.com/reel/DewOUytR40I/) | 141 | +16 | 78 | +6 | 18.5% | -0.9pt | 0（+0） | 0（+0） |
+| 10/20 | [🩷 竜宮プロトコル｜天姫（てんひめ）](https://www.instagram.com/reel/Detgrq6RGzs/) | 131 | +10 | 75 | +3 | 21.6% | +0.0pt | 0（+0） | 0（+0） |
+| 10/20 | [🌹❤️ 竜宮プロトコル｜海姫（うみひめ） 💋](https://www.instagram.com/reel/DetbqpJRH9M/) | 120 | +10 | 68 | +3 | 23.2% | -0.1pt | 0（+0） | 0（+0） |
+| 10/19 | [🌟💙 竜宮プロトコル｜光姫（ひかりひめ）](https://www.instagram.com/reel/DerC8JVxpAc/) | 132 | +8 | 77 | +3 | 22.5% | -0.9pt | 0（+0） | 0（+0） |
+| 10/19 | [🐚 竜宮プロトコル｜音姫（おとひめ） 🎹](https://www.instagram.com/reel/Deqx8XeRfpJ/) | 144 | +7 | 84 | +3 | 22.1% | -1.5pt | 1（+0） | 0（+0） |
+| 10/17 | [ようこそ、竜宮プロトコルへ！](https://www.instagram.com/reel/Delzhq5RAKT/) | 112 | +7 | 58 | +2 | 22.6% | -2.1pt | 0（+0） | 0（+0） |
+| 10/15 | [🐙💗 天姫の極上リラクゼーション④ 💗🐙](https://www.instagram.com/reel/Degl_nwRIh4/) | 231 | +8 | 105 | +3 | 41.4% | -0.3pt | 1（+0） | 0（+0） |
+| 10/12 | [🐙 天姫シリーズ③『タコ博士の整体体験①』 💕](https://www.instagram.com/reel/DeYyKb_xg8y/) | 174 | +7 | 86 | +2 | 36.8% | -2.1pt | 0（+0） | 0（+0） |
+| 10/11 | [🌙 音姫 MV 第3弾『この夜が終わるまで』](https://www.instagram.com/reel/DeVobe3x2Ua/) | 216 | +8 | 123 | +3 | 17.3% | -0.8pt | 0（+0） | 0（+0） |
+| 10/09 | [🎼 音姫 MV 第4弾『愛のうた』](https://www.instagram.com/reel/DeRC1KLREcG/) | 214 | +8 | 120 | +4 | 23.1% | -1.0pt | 0（+0） | 0（+0） |
+| 10/05 | [🐿️🔥 「野獣リスくんの野望」②](https://www.instagram.com/reel/DeG3hcrxKZJ/) | 203 | +8 | 103 | +4 | 24.5% | +0.0pt | 1（+0） | 0（+0） |
+| 10/03 | [🐿️🔥 新シリーズ「野獣リスくんの野望」①](https://www.instagram.com/reel/DeAxpzlRfW-/) | 175 | +7 | 87 | +4 | 25.7% | +1.1pt | 0（+0） | 0（+0） |
+| 10/01 | [海姫「欲望を暴きます」シリーズ② 🪸](https://www.instagram.com/reel/Dd8k8bDRPqf/) | 160 | +5 | 82 | +4 | 26.6% | +0.8pt | 0（+0） | 0（+0） |
 
 ## シリーズ別比較
 
