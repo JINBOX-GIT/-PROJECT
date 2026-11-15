@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "インスタ分析用/竜宮Instagram_週次リール分析_2026-11-02.md",
+                "file": "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/天姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "竜宮Instagram_週次リール分析_2026-11-02"
+              "title": "天姫_MIXXIA_多方向基準画制作仕様書_Ver0.1"
             }
           },
           {
@@ -204,8 +204,12 @@
   },
   "active": "ba8825b9202c023d",
   "lastOpenFiles": [
-    "インスタ分析用/竜宮Instagram_週次リール分析_2026-11-09.md",
     "インスタ分析用/竜宮Instagram_Reels分析_2026-11-02_2026-11-11.md",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/天姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/images/TEN_00_Front.png",
+    "ビジュアル仕様書/OTOHIME_MIXXIA_8DIRECTION_Ver0.1/音姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
+    "インスタ分析用/竜宮Instagram_週次リール分析_2026-11-02.md",
+    "インスタ分析用/竜宮Instagram_週次リール分析_2026-11-09.md",
     "ビジュアル仕様書/光姫_MIXXIA_多方向基準画（上半身）/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.2_新基準画候補.md",
     "ビジュアル仕様書/HIKARIHIME_MIXXIA_8DIRECTION_Ver0.1/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
     "ビジュアル仕様書/光姫_MIXXIA_クリオネドレス多方向基準画/光姫_MIXXIA_クリオネドレス多方向基準画制作仕様書_Ver0.1.md",
@@ -221,7 +225,6 @@
     "ビジュアル仕様書/光姫_MIXXIA_クリオネドレス多方向基準画/images/HIK_CL_L15.png",
     "ビジュアル仕様書/光姫_MIXXIA_クリオネドレス多方向基準画/images/HIK_CL_180_Back.png",
     "ビジュアル仕様書/光姫_MIXXIA_クリオネドレス多方向基準画/images/HIK_CL_00_Front.png",
-    "ビジュアル仕様書/光姫_MIXXIA_クリオネドレス多方向基準画/history/NG_R15_attempt1.png",
     "ビジュアル仕様書/光姫_MIXXIA_クリオネドレス多方向基準画/Regeneration_Log.md",
     "ビジュアル仕様書/光姫_MIXXIA_クリオネドレス多方向基準画/QA_Report.md",
     "ビジュアル仕様書/光姫_MIXXIA_クリオネドレス多方向基準画/images",
@@ -245,10 +248,6 @@
     "ビジュアル仕様書/光姫_MIXXIA_多方向基準画_Ver0.2候補/光姫_MIXXIA_多方向基準画制作仕様書_Ver0.2_新基準画候補.md",
     "ビジュアル仕様書/光姫_MIXXIA_多方向基準画_Ver0.2候補/Regeneration_Log.md",
     "ビジュアル仕様書/光姫_MIXXIA_多方向基準画_Ver0.2候補/QA_Report.md",
-    "ビジュアル仕様書/天姫_MIXXIA_多方向基準画/天姫_MIXXIA_多方向基準画制作仕様書_Ver0.1.md",
-    "01_動画制作標準仕様書/竜宮プロトコルSNS動画制作仕様書（Work編）.md",
-    "01_動画制作標準仕様書/SeaArtAI_Film_Neo_光姫ルミア_4回実験検証記録_2026-11-03.md",
-    "01_動画制作標準仕様書/FlovaAI_SeaArtAI_料金比較と運用方針_2026-11-03.md",
-    "01_動画制作標準仕様書/竜宮SNS動画制作_全工程効率化分析_Ver0.2_Obsidian.md"
+    "01_動画制作標準仕様書/竜宮プロトコルSNS動画制作仕様書（Work編）.md"
   ]
 }
